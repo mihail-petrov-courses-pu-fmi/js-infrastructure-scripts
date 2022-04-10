@@ -1,0 +1,16 @@
+{
+  "name": "sort_img_files",
+  "version": "1.0.0",
+  "description": "This is script for rearanging img files into specific directory based on extentions",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihail Petrov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.0.1",
+    "nodemailer": "^6.7.3"
+  }
+}
