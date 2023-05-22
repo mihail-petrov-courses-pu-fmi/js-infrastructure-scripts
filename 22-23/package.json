@@ -1,0 +1,14 @@
+{
+  "name": "rename_folder_task",
+  "version": "1.0.0",
+  "description": "Can ranema multiple dirs based on predifined prefix",
+  "main": "3_reuse_comand_line_parameters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihail Petrov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
